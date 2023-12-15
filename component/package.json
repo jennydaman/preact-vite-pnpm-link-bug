@@ -1,0 +1,12 @@
+{
+  "name": "example-component",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/react": "^18.2.45"
+  },
+  "peerDependencies": {
+    "react": "^17 || ^18",
+    "typescript": "^5.0.0"
+  }
+}
